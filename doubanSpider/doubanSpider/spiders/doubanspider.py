@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
-
 # 创建Douban类
 class DoubanSpiderSpider(scrapy.Spider):
     # 爬虫名称
