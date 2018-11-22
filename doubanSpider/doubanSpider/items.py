@@ -21,3 +21,4 @@ class DoubanspiderItem(scrapy.Item):
     #描述
     describe = scrapy.Field()
 
+

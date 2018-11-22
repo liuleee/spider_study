@@ -12,6 +12,7 @@
 BOT_NAME = 'doubanSpider'
 
 SPIDER_MODULES = ['doubanSpider.doubanSpider.spiders']
+
 NEWSPIDER_MODULE = 'doubanSpider.doubanSpider.spiders'
 
 
